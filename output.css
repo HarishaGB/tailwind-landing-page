@@ -903,6 +903,14 @@ h1, h2, h3{
   width: 100vw;
 }
 
+.w-1\/2{
+  width: 50%;
+}
+
+.w-4{
+  width: 1rem;
+}
+
 .min-w-16{
   min-width: 4rem;
 }
